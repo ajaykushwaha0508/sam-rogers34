@@ -1,12 +1,12 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Layout from './components/Layout';
-import HomePage from './pages/HomePage';
-import LessonsPage from './pages/LessonsPage';
-import GlobalJourneyPage from './pages/GlobalJourneyPage';
-import InitiativePage from './pages/InitiativePage';
-import GalleryPage from './pages/GalleryPage';
-import BlogPage from './pages/BlogPage';
-import BlogDetailPage from './pages/BlogDetailPage';
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Layout from "./components/Layout";
+import HomePage from "./pages/HomePage";
+import LessonsPage from "./pages/LessonsPage";
+import GlobalJourneyPage from "./pages/GlobalJourneyPage";
+import InitiativePage from "./pages/InitiativePage";
+import GalleryPage from "./pages/GalleryPage";
+import BlogPage from "./pages/BlogPage";
+import BlogDetailPage from "./pages/BlogDetailPage";
 
 /**
  * Layout renders the nav bar and footer once; each route supplies only its
